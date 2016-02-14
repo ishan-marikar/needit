@@ -1,0 +1,30 @@
+{
+  "name": "needit",
+  "version": "1.0.0",
+  "description": "A simple relative-require module.",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "require",
+    "relative",
+    "needit",
+    "need",
+    "want",
+    "modules"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ishan Marikar <ishan.marikar@outlook.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishan-marikar/needit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ishan-marikar/needit/issues"
+  },
+  "homepage": "https://github.com/ishan-marikar/needit#readme"
+}
