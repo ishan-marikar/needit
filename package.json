@@ -1,0 +1,13 @@
+{
+  "name": "needit",
+  "version": "0.1.0",
+  "description": "A simple relative-require module.",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ishan Marikar <ishan.marikar@outlook.com>",
+  "license": "MIT"
+}
