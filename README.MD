@@ -10,6 +10,7 @@ A tiny libary that allows you to relatively require anything from the base direc
 ## Usage
 
 ```js
+require('needit');
 var something = need('lib/something.lib');
 something.trololo();
 ```
