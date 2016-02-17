@@ -26,5 +26,9 @@
   "bugs": {
     "url": "https://github.com/ishan-marikar/needit/issues"
   },
-  "homepage": "https://github.com/ishan-marikar/needit#readme"
+  "homepage": "https://github.com/ishan-marikar/needit#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.2.2"
+  }
 }
