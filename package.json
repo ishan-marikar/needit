@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/ishan-marikar/needit#readme",
   "devDependencies": {
-    "mocha": "^2.4.5",
-    "should": "^8.2.2"
+    "mocha": "^3.2.0",
+    "should": "^11.1.2"
   }
 }
